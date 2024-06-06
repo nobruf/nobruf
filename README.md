@@ -9,10 +9,12 @@
 <h2 align="left">About me</h2>
 
 <div align="left">
-  <a href="https://instragram.com/bruno_felipy" target="_blank">
+  <a href="https://instagram.com/bruno_felipy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+<a href="https://www.linkedin.com/in/bruno-felipy-molina" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</a>
   <a href="https://youtube.com/nobruf" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
